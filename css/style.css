@@ -1,0 +1,32 @@
+input {
+	border: none;
+	background: none;
+	width: 100%;
+	font-size: 15px;
+	color: white;
+}
+body {
+	background: url('images/image.jpg');
+	background-size: cover;
+}
+input:focus {
+	outline: none !important;
+}
+button {
+	background: white;
+	border: none;
+	border-radius: 60px;
+	width: 120px;
+	height: 40px;
+}
+.name{
+	font-size: 25px;
+	text-align: center;
+}
+td{
+	color: white;
+}
+h1{
+	color: white;
+	padding-top: 10px;
+}
